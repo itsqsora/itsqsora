@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Soranan Rungtanee [soranankiw1]</h1>
-<h3 align="center">still alive in Thailand, but ye, i am back.</h3>
+<h3 align="center">I only love music</h3>
 
 - 🔭 I’m currently working on ...
 
