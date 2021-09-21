@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **itsqsora@gmail.com**
 
-- ⚡ fact **I age**
+- ⚡ fact **I can sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
