@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Soranan Rungtanee [soranankiw1]</h1>
 <h3 align="center">still alive in Thailand, but ye, i am back.</h3>
 
-- 🔭 I’m currently working on [roblox-script](https://github.com/soranankiw1/roblox)
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **Ruby on Rails, Lua, and MERN etc.**
+- 🌱 I’m currently learning **Frontend development.**
 
 - 💬 Ask me about **lua, or everything about programing**
 
