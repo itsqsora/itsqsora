@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **itsqsora@gmail.com**
 
-- ⚡ fact **I spend 4 hrs to sleep everyday on Earth**
+- ⚡ fact **I age**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
