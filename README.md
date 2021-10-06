@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Soranan [soranankiw1]</h1>
-<h3 align="center">I only love music</h3>
 
 - 🔭 I’m currently working on Webblog
 
@@ -15,3 +14,4 @@
 <p align="left">
 <a href="https://fb.com/soranankiw1" target="blank"><img align="center"/>Facebook</a>
 </p>
+<a href="https://app.daily.dev/soranan"><img src="https://api.daily.dev/devcards/a6e266ff01b5431fa8889dc228256a26.png?r=l09" width="400" alt="Soranan Rungtanee's Dev Card"/></a>
