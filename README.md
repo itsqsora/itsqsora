@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Soranan [soranankiw1]</h1>
 <h3 align="center">I only love music</h3>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Webblog
 
 - 🌱 I’m currently learning **Frontend development.**
 
