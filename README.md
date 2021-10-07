@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Soranan [soranankiw1]</h1>
 
-- 🔭 I’m currently working on Webblog
+- 🔭 I’m currently working on Web blog
 
 - 🌱 I’m currently learning **Frontend development.**
 
