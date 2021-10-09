@@ -21,4 +21,4 @@ You can send me a message via *itsqsora@gmail.com* or *facebook/soranankiw1*
 :D
 
 Oh wait, this is my today's song.
-https://www.youtube.com/watch?v=1kz6hNDlEEg.
+https://www.youtube.com/watch?v=1kz6hNDlEEg. <i> // (it is not rick rolling!) </i>
