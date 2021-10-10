@@ -8,7 +8,7 @@ I think Front-end and Back-end developments literally fit me! And of course, I a
 - I made a coundown timer website using Javascript. See my website here (https://firstdoseofpfizer.netlify.app/) <br>
 <i> // For my other works, you can browse my repository!</i>
 
-<h4>My interest</h4>
+<h4>My interests</h4>
 - React.js ##### <br>
 - Node.js ## <br>
 - Exploring every kind of music ######### <br>
