@@ -1,3 +1,5 @@
+# Hi there, I'm Sora.
+
 I'm Soranan Rungtanee. I live in the southern part of Thailand. I am here with a passion for coding.
 
 I have been a coder since 2017, on the way to finding what exactly path that fits me and now I have found it.
