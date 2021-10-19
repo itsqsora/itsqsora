@@ -20,7 +20,7 @@ I think Front-end and Back-end developments literally fit me! And of course, I a
 - Drawing ### <br>
 
 <h4>Ways to contact me.</h4>
-You can send me a message via *itsqsora@gmail.com* or *facebook/soranankiw1*
+You can send me a message via *itsqsora@gmail.com* or *facebook/itsqsora*
   
 :D
 
