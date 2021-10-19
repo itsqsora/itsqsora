@@ -18,7 +18,6 @@ I think Front-end and Back-end developments literally fit me! And of course, I a
 - Exploring every kind of music ######### <br>
 - Learning new languages, I am now learning Deutsch.  #### <br>
 - Drawing ### <br>
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsqsora&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h4>Ways to contact me.</h4>
 You can send me a message via *itsqsora@gmail.com* or *facebook/itsqsora*
