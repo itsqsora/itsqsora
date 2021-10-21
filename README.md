@@ -26,6 +26,6 @@ You can send me a message via *itsqsora@gmail.com* or *facebook/itsqsora*
 :D
 
 Oh wait, this is my today's song.
-https://youtu.be/iYYRH4apXDo. <i> // (it is not rick rolling!) </i>
+https://www.youtube.com/watch?v=rblYSKz_VnI&ab_channel=TheBeatlesVEVO. <i> // (it is not rick rolling!) </i>
 
 <a href="https://app.daily.dev/soranan"><img src="https://api.daily.dev/devcards/a6e266ff01b5431fa8889dc228256a26.png?r=2lx" width="400" alt="Soranan Rungtanee's Dev Card"/></a>
