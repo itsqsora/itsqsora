@@ -12,6 +12,7 @@ I think Front-end and Back-end developments literally fit me! And of course, I a
 
 <h4>My interests</h4>
 - Gatsby ##### <br>
+- Vue.js #### <br>
 - GSAP ##### <br>
 - React.js #####  <br>
 - Node.js ##### <br>
