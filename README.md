@@ -6,6 +6,7 @@ I have been a coder since 2019 on the way to finding what exactly path that fits
 
 I think Front-end and Back-end developments literally fit me! And of course, I am currently learning about them.
 
+Read my blog here: https://blog-qsora.netlify.app/
 
 <h4>My interests</h4>
 - Gatsby ##### <br>
