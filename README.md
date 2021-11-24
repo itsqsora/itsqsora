@@ -6,9 +6,6 @@ I have been a coder since 2019 on the way to finding what exactly path that fits
 
 I think Front-end and Back-end developments literally fit me! And of course, I am currently learning about them.
 
-<h4>My Project</h4>
-- I made a coundown timer website using Javascript. See my website here (https://pfizergangs.netlify.app/) <br>
-<i> // For my other works, you can browse my repository!</i>
 
 <h4>My interests</h4>
 - Gatsby ##### <br>
